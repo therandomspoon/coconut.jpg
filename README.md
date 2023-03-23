@@ -1,1 +1,1 @@
-The 'coconut.jpg' is the cocunut file it looks for
+The 'coconut.jpg' is the coconut file it looks for
