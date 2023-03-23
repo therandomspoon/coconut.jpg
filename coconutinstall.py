@@ -5,7 +5,7 @@ dir_path = input("Enter the directory path to save the file: ")
 if not os.path.isdir(dir_path):
     print(f"The directory {dir_path} does not exist.")
     exit()
-url = "https://raw.githubusercontent.com/therandomspoon/coconut.jpg/main/coconut.jpg"
+url = "https://www.randspoon.co.uk/coconut.jpg"
 response = requests.get(url)
 if response.status_code == 200:
     file_name = os.path.basename(url)
