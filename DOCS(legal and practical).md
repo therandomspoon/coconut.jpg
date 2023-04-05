@@ -15,3 +15,6 @@
   The original 'coconut.jpg' was created by **VALVe.inc** and the image is not owned by Randspoon & Associates.
   The install program and search program was created by Randspoon and Associates in **Python 3.10** using **Visual Studio Code** by ***Microsoft***. These products are owned by Randspoon and associates and there is various means to prove this. Randspoon & Associates can take legal action if these products are imitated or stolen and sold for profit
   Randspoon.ltd acknoledges that the product is open-source and free and intends for it to stay this way. But these products should only be available to the public through **our** Github and **our** website
+
+- 3. **Public Domain**
+  the image used in the program was found online easily and therefore can be classed as in public domain and not at all privatised.
